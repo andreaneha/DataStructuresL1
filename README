@@ -1,0 +1,26 @@
+Andrea Fernandes
+0808213
+aferna06@mail.uoguelph.ca
+
+ASSUMPTIONS
+I really don't understand what the function pointers in the struct do 
+so I made some assumptions...
+
+1) The compare function returns 0 (evaluated as false in the if statement)
+2)The deleteDataFromList function works by checking each node, and if the data from that node matched the "to be deleted", it gets deleted. This is probably wrong :( 
+3) I just give the print function data and it prints it... 
+
+COMPILE
+type make. 
+
+SOURCE CODE
+the linked list functions are in the src folder with the make file. 
+
+okay goodnight. I'm going to bed now
+
+
+
+
+
+
+

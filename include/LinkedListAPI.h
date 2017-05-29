@@ -48,6 +48,7 @@ other notes in a list.
 *@return On success returns a node that can be added to a linked list. On failure, returns NULL.
 *@param data - is a generic pointer to any data type.
 **/
+//make this a Node *
 Node *initializeNode(void *data);
 
 /**Inserts a Node to the front of a linked list. The list then updates accordingly to adhere to the ADT.
